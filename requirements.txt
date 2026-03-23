@@ -3,3 +3,5 @@ flask
 flask-cors
 pyserial
 requests
+plotly
+ 
